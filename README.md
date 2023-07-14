@@ -1,4 +1,4 @@
-# MiniShop
+# MiniShop -2인프로젝트, 상품페이지담당
 
 
 
