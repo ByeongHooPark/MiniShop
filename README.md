@@ -42,7 +42,7 @@
 > 
 > #### a. 조회 로직
 > #### /product-js/list.js 의 getProduct()을 중심으로 readyfunction-전체, cateClicked()-카테고리,  searchProducts()-검색, moreButton()-더보기
-> #### /product-java
+> #### /product-java/ProductServiceProcess.java 의 getProduct() 메서드
 >
 > #### b. 검색창 로직
 > #### /service/ProjectServiceUtil.java 의 3, 3.1번 메서드 
