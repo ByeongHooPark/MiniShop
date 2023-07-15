@@ -132,7 +132,7 @@ function getProduct(cNo, count){
 
 /////////////* 3. 검색 비동기 임시 리스트 출력 *//////////////
 
-function myFunction() {
+function tempPrint() {
   // 이벤트 발생 시 실행할 동작을 작성합니다.
   var data = $("#search-box").val();
   data = data.trim();
