@@ -45,7 +45,8 @@
 > #### /product-java/ProductServiceProcess.java 의 getProduct() 메서드
 >
 > #### b. 검색창 로직
-> #### /service/ProjectServiceUtil.java 의 3, 3.1번 메서드 
+> #### /product-js/list.js 의 tempPrint()
+> #### /product-java/ProductServiceProcess.java 의 getProduct() 메서드
 
 ##  2. 체스 게시판
 
