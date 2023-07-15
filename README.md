@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-#### 전체조회, 카테고리 조회, 검색 조회와 각각의 더보기 페이징의 로직을 일원화 했습니다.
+#### a. 전체조회, 카테고리 조회, 검색 조회와 각각의 더보기 페이징의 로직을 일원화 했습니다.
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 <br/><br/>
 
-#### 검색창에 문자를 입력하면 한글 자모단위로 검색창이 상품 리스트를 임시 출력하도록 했습니다.
+#### b. 검색창에 문자를 입력하면 한글 자모단위로 검색창이 상품 리스트를 임시 출력하도록 했습니다.
 
 <br/>
 
@@ -37,12 +37,14 @@
 
 <br/><br/><br/><br/>
 
-####
-
-<br/><br/>
-
-> #### 관련 코드  
-> #### /service/ProjectServiceProcess.java 의 1, 2, 7, 8, 9번 메서드 
+> #### 관련 코드
+> #### 공통 - list 페이지 뷰 : /product-html/list.html
+> 
+> #### a. 조회 로직
+> #### /product-js/list.js 의 getProduct()을 중심으로 readyfunction-전체, cateClicked()-카테고리,  searchProducts()-검색, moreButton()-더보기
+> #### /product-java
+>
+> #### b. 검색창 로직
 > #### /service/ProjectServiceUtil.java 의 3, 3.1번 메서드 
 
 ##  2. 체스 게시판
