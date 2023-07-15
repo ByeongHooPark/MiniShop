@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://github.com/ByeongHooPark/GCBoard/assets/123047580/5c5c8b5c-474e-44c1-bced-a87bafafda41"  width="300" height="300"/>
+<img src="https://github.com/ByeongHooPark/MiniShop/assets/123047580/070cbe00-5579-48d6-90e9-4ca2869dabbb"  width="300" height="300"/>
 
 
 <br/><br/><br/><br/><br/><br/>
